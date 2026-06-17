@@ -1,0 +1,7 @@
+E:\MKGit\C#\PracticeConstructor\PracticeConstructor\obj\Debug\PracticeConstructor.csproj.AssemblyReference.cache
+E:\MKGit\C#\PracticeConstructor\PracticeConstructor\obj\Debug\PracticeConstructor.csproj.CoreCompileInputs.cache
+E:\MKGit\C#\PracticeConstructor\PracticeConstructor\bin\Debug\PracticeConstructor.exe.config
+E:\MKGit\C#\PracticeConstructor\PracticeConstructor\bin\Debug\PracticeConstructor.exe
+E:\MKGit\C#\PracticeConstructor\PracticeConstructor\bin\Debug\PracticeConstructor.pdb
+E:\MKGit\C#\PracticeConstructor\PracticeConstructor\obj\Debug\PracticeConstructor.exe
+E:\MKGit\C#\PracticeConstructor\PracticeConstructor\obj\Debug\PracticeConstructor.pdb

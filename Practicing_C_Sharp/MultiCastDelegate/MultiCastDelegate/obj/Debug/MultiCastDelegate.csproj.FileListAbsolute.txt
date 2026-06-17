@@ -1,0 +1,7 @@
+E:\MKGit\C#\MultiCastDelegate\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe.config
+E:\MKGit\C#\MultiCastDelegate\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe
+E:\MKGit\C#\MultiCastDelegate\MultiCastDelegate\bin\Debug\MultiCastDelegate.pdb
+E:\MKGit\C#\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.csproj.AssemblyReference.cache
+E:\MKGit\C#\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.csproj.CoreCompileInputs.cache
+E:\MKGit\C#\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.exe
+E:\MKGit\C#\MultiCastDelegate\MultiCastDelegate\obj\Debug\MultiCastDelegate.pdb
