@@ -13,6 +13,7 @@ namespace PracticeConstructor
 
             DemoConstructor demo1 = new DemoConstructor("Hello Mr How r u ?");
             DemoConstructor demo2 = new DemoConstructor(demo1);
+
             Console.ReadLine();
         }
     }
