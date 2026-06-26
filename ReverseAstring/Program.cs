@@ -20,6 +20,10 @@ namespace ReverseAstring
 
         static string ReverseString(string str)
         {
+            //handle edge case for null or empty string
+            if (string.IsNullOrEmpty(str))
+                return str;
+
             StringBuilder   reversedString = new StringBuilder(str.Length);
             char[] chars = new char[str.Length];
             for (int i = str.Length-1; i>=0; i--)
