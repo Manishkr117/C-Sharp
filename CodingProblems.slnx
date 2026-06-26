@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodingProblems/CodingProblems.csproj" Id="60fc048c-9848-4833-b70e-c1ff993416cd" />
+  <Project Path="ReverseAstring/ReverseAstring.csproj" Id="4147fa53-7ce9-48ec-aac9-926e525db9dc" />
+  <Project Path="SecondLargestElementInArray/SecondLargestElementInArray.csproj" Id="a9f00747-4229-4a54-aee8-b400eb0ada60" />
+</Solution>

@@ -20,12 +20,13 @@ namespace ReverseAstring
 
         static string ReverseString(string str)
         {
+            StringBuilder   reversedString = new StringBuilder(str.Length);
             char[] chars = new char[str.Length];
             for (int i = str.Length-1; i>=0; i--)
             {
-                chars[str.Length - i-1]= str[i];
+                reversedString.Append(str[i]);
             }
-            return new string(chars);
+            return reversedString.ToString();
         }
     }
 }
