@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4147FA53-7CE9-48EC-AAC9-926E525DB9DC}|ReverseAstring\\ReverseAstring.csproj|e:\\mkgit\\manishkr117\\practicing_c_sharp\\codingproblems\\reverseastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4147FA53-7CE9-48EC-AAC9-926E525DB9DC}|ReverseAstring\\ReverseAstring.csproj|solutionrelative:reverseastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F00747-4229-4A54-AEE8-B400EB0ADA60}|SecondLargestElementInArray\\SecondLargestElementInArray.csproj|e:\\mkgit\\manishkr117\\practicing_c_sharp\\codingproblems\\secondlargestelementinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F00747-4229-4A54-AEE8-B400EB0ADA60}|SecondLargestElementInArray\\SecondLargestElementInArray.csproj|solutionrelative:secondlargestelementinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FC048C-9848-4833-B70E-C1FF993416CD}|CodingProblems\\CodingProblems.csproj|e:\\mkgit\\manishkr117\\practicing_c_sharp\\codingproblems\\codingproblems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FC048C-9848-4833-B70E-C1FF993416CD}|CodingProblems\\CodingProblems.csproj|solutionrelative:codingproblems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FC048C-9848-4833-B70E-C1FF993416CD}|CodingProblems\\CodingProblems.csproj|E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\CodingProblems\\CodingProblems.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{60FC048C-9848-4833-B70E-C1FF993416CD}|CodingProblems\\CodingProblems.csproj|solutionrelative:CodingProblems\\CodingProblems.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\ReverseAstring\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseAstring\\Program.cs",
+              "ToolTip": "E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\ReverseAstring\\Program.cs",
+              "RelativeToolTip": "ReverseAstring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T11:29:16.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\SecondLargestElementInArray\\Program.cs",
+              "RelativeDocumentMoniker": "SecondLargestElementInArray\\Program.cs",
+              "ToolTip": "E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\SecondLargestElementInArray\\Program.cs",
+              "RelativeToolTip": "SecondLargestElementInArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T11:14:32.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\CodingProblems\\Program.cs",
+              "RelativeDocumentMoniker": "CodingProblems\\Program.cs",
+              "ToolTip": "E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\CodingProblems\\Program.cs",
+              "RelativeToolTip": "CodingProblems\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T10:32:48.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodingProblems.csproj",
+              "DocumentMoniker": "E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\CodingProblems\\CodingProblems.csproj",
+              "RelativeDocumentMoniker": "CodingProblems\\CodingProblems.csproj",
+              "ToolTip": "E:\\MKGit\\Manishkr117\\Practicing_C_Sharp\\CodingProblems\\CodingProblems\\CodingProblems.csproj",
+              "RelativeToolTip": "CodingProblems\\CodingProblems.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-26T10:32:45.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
