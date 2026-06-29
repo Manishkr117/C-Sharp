@@ -1,5 +1,12 @@
 <Solution>
   <Project Path="CodingProblems/CodingProblems.csproj" Id="60fc048c-9848-4833-b70e-c1ff993416cd" />
+  <Project Path="Factorial/Factorial.csproj" Id="c15d9dd3-6c84-4341-8629-8d7708ce0c1b" />
+  <Project Path="FibonachiSequence/FibonacciSequence.csproj" Id="0fe58094-cbcf-41e4-924f-630eec93d6e8" />
+  <Project Path="FindLongestWordInSentence/FindLongestWordInSentence.csproj" Id="c7f43076-9b8d-4cc6-9768-051b8b3d46e3" />
+  <Project Path="GCDof2Nos/GCDof2Nos.csproj" Id="b7a10333-13a1-462b-be37-092fdaab95a1" />
+  <Project Path="Palindrome/Palindrome.csproj" Id="eceb58ec-815c-4508-a934-8b5b629f93f2" />
+  <Project Path="PrimeNumber/PrimeNumber.csproj" Id="e8904d07-7efc-480c-9b14-d09f70d845a0" />
   <Project Path="ReverseAstring/ReverseAstring.csproj" Id="4147fa53-7ce9-48ec-aac9-926e525db9dc" />
   <Project Path="SecondLargestElementInArray/SecondLargestElementInArray.csproj" Id="a9f00747-4229-4a54-aee8-b400eb0ada60" />
+  <Project Path="SumDigitsOfaNumber/SumDigitsOfaNumber.csproj" Id="3af8a90a-0c85-4e4a-a4f4-cc6458c6ebc9" />
 </Solution>
